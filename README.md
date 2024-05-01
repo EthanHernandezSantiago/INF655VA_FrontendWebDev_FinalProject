@@ -15,7 +15,7 @@ Tailwind Css (for styling)
 ```npm install tailwindcss```
 
 
-Firebase (for authentication, database, and hosting)
+Firebase (for authentication and database)
 
 ```npm install firebase```
 
