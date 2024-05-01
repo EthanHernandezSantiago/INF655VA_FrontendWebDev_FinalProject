@@ -6,18 +6,23 @@ This project is supposed to be an app that users can create groups of flashcards
 This app used the following packages:
 
 React-Router-Dom (for routing)
+
 ```npm install react-router-dom```
 
 Tailwind Css (for styling)
+
 ```npm install tailwindcss```
 
 Firebase (for authentication, database, and hosting)
+
 ```npm install firebase```
 
 react-icons (for icons used in site)
+
 ```npm install react-icons```
 
 Uuid (for giving items a unique id)
+
 ```npm install uuid```
 
 ## Notes
